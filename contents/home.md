@@ -7,7 +7,7 @@ My research interests mainly focus on computer vision and natural language proce
 <code>Wenbin.Feng@ieee.org</code>  
 
 #### Education  
-**Shenzhen Technology University**, Bachelor of computer science and technology (XX – XX)  
+**Shenzhen Technology University**, Bachelor of Engineering in Computer Science and Technology  (2022 – Present)  
 - GPA: 84.22/100
 - RANK: 27/202
 
