@@ -4,11 +4,12 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 
 #### Email  
 <code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Shenzhen Technology University**, Bachelor of computer science and technology (XX – XX)  
+• GPA: 84.22/100
+• RANK: 27/202
 
 **XX University**, Exchange student <br>  
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
