@@ -8,8 +8,8 @@ My research interests mainly focus on computer vision and natural language proce
 
 #### Education  
 **Shenzhen Technology University**, Bachelor of computer science and technology (XX – XX)  
-• GPA: 84.22/100
-• RANK: 27/202
+- GPA: 84.22/100
+- RANK: 27/202
 
 #### Research Interests  
 Medical report generation, Computer Vision, NLP, Underwater object segmentation, Knowledge graph path retrieval.
