@@ -1,3 +1,4 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Second Prize, 24th HUST Mathematical Modelling Competition, HUST, 2024
+- Third Prize, National College English Competition, 2024
+- Third Prize (Top 10%), Craftsman Star, Shenzhen Technology University, 2024
+- Third-Class Scholarship (Top 5%), Shenzhen Technology University, 2022
