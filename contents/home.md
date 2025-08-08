@@ -1,21 +1,15 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently a senior undergraduate student at the Department of Big Data and Internet, Shenzhen Technology University.  
+My research interests mainly focus on computer vision and natural language processing (NLP), including medical report generation, underwater object segmentation, and knowledge graph path retrieval.
 
 #### Email  
-<code>XX@XX.XX</code>  
-
+<code>Wenbin.Feng@ieee.org</code>  
 
 #### Education  
 **Shenzhen Technology University**, Bachelor of computer science and technology (XX – XX)  
 • GPA: 84.22/100
 • RANK: 27/202
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
 #### Research Interests  
-XX, XX, XX, XX.
+Medical report generation, Computer Vision, NLP, Underwater object segmentation, Knowledge graph path retrieval.
