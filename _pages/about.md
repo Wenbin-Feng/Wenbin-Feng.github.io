@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student in Big Data and Internet College at Shenzhen Technology University, majoring in Computer Science and Technology. I am extremely fortunate to be advised by Prof. [Lu Yu](https://lvyupku.github.io/) during my undergraduate journey. My research interests mainly lie in computer vision and natural language processing (NLP), specifically object segmentation and medical report generation, with the purpose of improving accuracy by integrating and refining advanced methods. My current research focuses on reinforcement learning for knowledge path retrieval.
+I am a senior undergraduate at the Big Data and Internet College, Shenzhen Technology University, majoring in Computer Science and Technology. I am advised by Prof. [Lu Yu](https://lvyupku.github.io/).  
+My research spans computer vision and natural language processing, with a focus on multi-modal learning for medical and industrial applications.
+
+Research interests:
+- Multi-modal representation learning (vision–language alignment)
+- Object segmentation and fine-grained defect detection
+- Medical report generation (factual consistency, controllability)
+- Reinforcement learning for knowledge path retrieval / reasoning
+- Efficient training strategies (contrastive objectives, lightweight sequence models)
+
+Currently, I work on reinforcement learning methods to improve knowledge path retrieval efficiency and accuracy in medical report generation pipelines.
 
 ## Publications
 
