@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate at the Big Data and Internet College, Shenzhen Technology University, majoring in Computer Science and Technology. I am advised by Prof. [Lu Yu](https://lvyupku.github.io/).  
+I am a senior undergraduate at the Big Data and Internet College, Shenzhen Technology University, majoring in Computer Science and Technology. I am advised by Prof. [Yu Lu](https://lvyupku.github.io/).  
 My research spans computer vision and natural language processing, with a focus on multi-modal learning for medical and industrial applications.
 
 Research interests:
