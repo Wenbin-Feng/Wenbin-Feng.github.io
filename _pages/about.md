@@ -11,13 +11,13 @@ I am a senior undergraduate at the Big Data and Internet College, Shenzhen Techn
 My research spans computer vision and natural language processing, with a focus on multi-modal learning for medical and industrial applications.
 
 Research interests:
-- Multi-modal representation learning (vision–language alignment)
+- Multi-modal representation learning (vision–language contrastive learning)
 - Object segmentation and fine-grained defect detection
-- Medical report generation (factual consistency, controllability)
-- Reinforcement learning for knowledge path retrieval / reasoning
-- Efficient training strategies (contrastive objectives, lightweight sequence models)
+- Medical report generation 
+- Reinforcement learning for knowledge path retrieval
+- Efficient training strategies (lightweight sequence models)
 
-Currently, I work on reinforcement learning methods to improve knowledge path retrieval efficiency and accuracy in medical report generation pipelines.
+Currently, I work on GRPO-based reinforcement learning framework for knowledge path retrieval in medical report generation pipelines.
 
 ## Publications
 
