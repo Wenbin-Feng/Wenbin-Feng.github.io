@@ -16,6 +16,7 @@ Currently, I am an AI Agent Development Intern at **MindCruise** (NOTTA), workin
 Research interests:
 - Computer Vision
 - Large Language Models
+- Reinforcement Learning
 - AI Agents (Tool-calling, ReAct, Chain-of-Thought)
 
 ## Publications
