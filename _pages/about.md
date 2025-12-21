@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate at the Big Data and Internet College, Shenzhen Technology University, majoring in Computer Science and Technology. I am advised by Prof. [Yu Lu](https://lvyupku.github.io/).
+I am a senior undergraduate at the Big Data and Internet College, Shenzhen Technology University, majoring in Computer Science and Technology. I am advised by Prof. [Yu Lu](https://lvyupku.github.io/). I have received a pre-admission offer for the Master's program at Hong Kong Polytechnic University.
+
 My research spans computer vision and natural language processing, with a focus on multi-modal learning for medical and industrial applications.
 
 Currently, I am an AI Agent Development Intern at **MindCruise** (NOTTA), working on document automation including custom template extraction and automatic generation for Word/PPT documents.
@@ -16,7 +17,6 @@ Research interests:
 - Computer Vision
 - Large Language Models
 - AI Agents (Tool-calling, ReAct, Chain-of-Thought)
-
 
 ## Publications
 
