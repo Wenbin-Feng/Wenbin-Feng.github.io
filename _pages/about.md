@@ -27,7 +27,7 @@ Research interests:
 ## Internship Experience
 
 **AI Agent Development Intern** | [MindCruise](https://www.notta.ai/en) (Notta)
-*December 2024 - Present*
+*November 2025 - Present*
 - Developing intelligent document automation systems for Notta Brain, focusing on agentic workflows for template extraction and content generation
 - Building AI-powered modules for automatic Word/PowerPoint document processing using large language models
 - Implementing tool-calling and ReAct frameworks for enhanced document understanding and generation capabilities
